@@ -1,1 +1,6 @@
-prints the basic system information about the operating system you're using. This information usually includes the system name, node name (hostname), kernel release, kernel version, machine architecture, and processor type.
+Linux
+your-hostname
+4.15.0-147-generic
+#151-Ubuntu SMP Fri Jun 18 19:33:16 UTC 2021
+x86_64
+
