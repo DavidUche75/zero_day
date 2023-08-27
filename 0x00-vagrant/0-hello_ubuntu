@@ -1,0 +1,1 @@
+prints the basic system information about the operating system you're using. This information usually includes the system name, node name (hostname), kernel release, kernel version, machine architecture, and processor type.
